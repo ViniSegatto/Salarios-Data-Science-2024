@@ -88,15 +88,39 @@ A análise do número de vagas por nível de experiência emerge como um indicad
 Conforme esperado, a análise salarial revela uma correlação positiva entre o nível de experiência e o salário médio no dataset. Os profissionais classificados como "executivos" da área de dados ostentam o maior salário médio, atingindo a marca de 184.560 USD. Na sequência, os profissionais "seniors" apresentam um salário médio de 153.600 USD, representando uma diferença de 16,77% entre essas categorias de níveis mais elevados. No segmento de profissionais "mid-level" (considerados "pleno" no Brasil), o salário médio é de 106.500 USD, enquanto os profissionais "juniors" recebem, em média, 75.000 USD, refletindo uma diferença de 29,57%. Essa análise reforça a tendência comum de que o aumento na experiência está associado a salários mais elevados.
 
 
+# Relação remuneração e ano de trabalho. 
 
-teste5
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/84e72393-340d-4848-bd23-5d949f1c9fb7)
 
-teste6
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/5685467c-e445-4148-be9c-1d05bebb0405)
 
-teste7
+Ao comparar os dois papéis, "Data Scientist" e "ML Engineer", percebemos que, apesar da relativa estabilidade nos valores médios de remuneração para "Data Scientists", essa função possui uma quantidade considerável de vagas e salários acima da média. Essa constância pode indicar uma forte demanda contínua para profissionais qualificados nessa área, apesar das variações anuais.
+
+Portanto, embora a média salarial para "Data Scientists" não tenha aumentado expressivamente ao longo dos anos, a quantidade significativa de vagas e a presença de salários acima da média sugerem que essa área continua sendo altamente demandada e valorizada no mercado de trabalho nos Estados Unidos.,
+
+A análise da remuneração ao longo dos anos para a função de "ML Engineer" nos Estados Unidos revela um cenário interessante. Observamos um aumento notável na média dos valores pagos para essa área, indicando uma valorização crescente ao longo do tempo. Esse aumento é especialmente evidente no ano de 2023, onde ocorre uma variação significativa nos valores.
+
+É importante destacar que, nos anos anteriores, a disponibilidade de dados para a função de "ML Engineer" pode ter sido limitada, mas, mesmo assim, a tendência de valorização é clara. Esse aumento pode sugerir uma demanda crescente por profissionais qualificados nessa área, refletindo a importância contínua da aprendizagem de máquina e engenharia de dados no mercado de trabalho.
+Portanto, a análise aponta para uma valorização substancial da função de "ML Engineer" ao longo dos anos, indicando uma tendência positiva para profissionais que atuam nesse campo específico.
+
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/76041bd4-c003-434e-9585-a82db32fb2fc)
+
+Tipo da Vaga:
+
+Gráfico de Barra (Esquerda): Mostra a média da remuneração para cada tipo de vaga (Remoto, Híbrido, Presencial). Cada barra representa a média salarial em dólares americanos para os respectivos tipos de vaga.
+Gráfico de Boxplot (Direita): Exibe a distribuição dos valores salariais para cada tipo de vaga, permitindo visualizar medidas estatísticas como mediana, quartis e possíveis outliers.
+
+Tamanho da Empresa:
+
+Gráfico de Barra (Esquerda): Apresenta a média da remuneração para diferentes tamanhos de empresas. Cada barra representa a média salarial em dólares americanos para as respectivas categorias de tamanho de empresa.
+Gráfico de Boxplot (Direita): Ilustra a distribuição dos valores salariais em relação ao tamanho das empresas, proporcionando insights sobre a variabilidade salarial dentro de cada categoria de tamanho.
+
+Tipo de Contrato:
+
+Gráfico de Barra (Esquerda): Indica a média da remuneração para diferentes tipos de contrato de emprego (Tempo Integral, Meio Período, etc.). Cada barra representa a média salarial em dólares americanos para as categorias de contrato.
+Gráfico de Boxplot (Direita): Mostra a distribuição dos valores salariais para cada tipo de contrato, destacando a variabilidade salarial dentro de cada categoria.
+Essa abordagem visual permite uma compreensão rápida e comparativa da remuneração em relação a diferentes variáveis, oferecendo insights sobre como esses fatores podem influenciar os salários na área de Ciência de Dados.
 
 teste8
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/584f21b5-19f8-48a4-a253-faadecd6c7a3)
