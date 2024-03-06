@@ -109,45 +109,137 @@ Portanto, a análise aponta para uma valorização substancial da função de "M
 Tipo da Vaga:
 
 Gráfico de Barra (Esquerda): Mostra a média da remuneração para cada tipo de vaga (Remoto, Híbrido, Presencial). Cada barra representa a média salarial em dólares americanos para os respectivos tipos de vaga.
+
 Gráfico de Boxplot (Direita): Exibe a distribuição dos valores salariais para cada tipo de vaga, permitindo visualizar medidas estatísticas como mediana, quartis e possíveis outliers.
 
 Tamanho da Empresa:
 
 Gráfico de Barra (Esquerda): Apresenta a média da remuneração para diferentes tamanhos de empresas. Cada barra representa a média salarial em dólares americanos para as respectivas categorias de tamanho de empresa.
+
 Gráfico de Boxplot (Direita): Ilustra a distribuição dos valores salariais em relação ao tamanho das empresas, proporcionando insights sobre a variabilidade salarial dentro de cada categoria de tamanho.
 
 Tipo de Contrato:
 
 Gráfico de Barra (Esquerda): Indica a média da remuneração para diferentes tipos de contrato de emprego (Tempo Integral, Meio Período, etc.). Cada barra representa a média salarial em dólares americanos para as categorias de contrato.
+
 Gráfico de Boxplot (Direita): Mostra a distribuição dos valores salariais para cada tipo de contrato, destacando a variabilidade salarial dentro de cada categoria.
+
 Essa abordagem visual permite uma compreensão rápida e comparativa da remuneração em relação a diferentes variáveis, oferecendo insights sobre como esses fatores podem influenciar os salários na área de Ciência de Dados.
 
-teste8
+# Correlação e Significância
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/584f21b5-19f8-48a4-a253-faadecd6c7a3)
 
-teste9
+Os gráficos apresentados têm como objetivo visualizar a relação entre variáveis categóricas e numéricas, especificamente a relação entre as variáveis codificadas (categóricas transformadas em numéricas usando Label Encoding) e o salário em dólares americanos. Vamos detalhar cada conjunto de gráficos:
+
+Relação entre Ano de Trabalho e Salário:
+
+Gráfico de Regressão (Esquerda): Mostra a relação entre o ano de trabalho (work_year) e o salário em dólares americanos. A linha de regressão vermelha indica a tendência geral da relação entre essas variáveis.
+
+Gráfico de Regressão (Direita): Apresenta a relação entre a codificação da experiência (experience_encoded) e o salário. Aqui, a codificação da experiência é uma representação numérica da variável categórica original.
+
+Relação entre Tamanho da Empresa e Tipo de Contrato com o Salário:
+
+Gráfico de Regressão (Esquerda): Exibe a relação entre a codificação do tamanho da empresa (company_size_encoded) e o salário em dólares americanos.
+
+Gráfico de Regressão (Direita): Mostra a relação entre a codificação do tipo de contrato (employment_type_encoded) e o salário. Ambos os gráficos ajudam a entender como essas variáveis categóricas transformadas se relacionam com o salário.
+
+
+Esses gráficos de regressão são valiosos para explorar visualmente as relações entre variáveis categóricas e salários na área de Ciência de Dados. Eles oferecem uma análise intuitiva das influências desses fatores nos salários, permitindo uma rápida identificação de padrões ou variações nos dados.
+
+A presença da linha de regressão vermelha em cada gráfico destaca a tendência geral nas relações examinadas. Essa linha representa a direção e a intensidade média da relação entre a variável categórica e o salário. Notavelmente, a consistência nos padrões identificados nas análises anteriores é mantida mesmo quando aplicamos a análise de regressão. Isso reforça as observações feitas anteriormente sobre a influência das variáveis examinadas nos salários, reforçando a validade das tendências identificadas.
+
+Dessa forma, os gráficos de regressão proporcionam uma abordagem adicional e complementar para compreender as dinâmicas entre variáveis categóricas e salários, corroborando as conclusões derivadas das análises exploratórias anteriores.
+
+# Correlação de Pearson
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/0db9100a-10da-41d6-b8ad-1b14e2292675)
 
-teste10
+Uma análise de correlação de Pearson é uma medida estatística que avalia a relação linear entre duas variáveis contínuas. Fornecendo um coeficiente de correlação que varia de -1 a 1, indicando a força e a direção da relação entre as variáveis.
+
+Coeficiente de Correlação (r):
+
+	r = 1: Correlação perfeita positiva (à medida que uma variável aumenta, a outra também aumenta de maneira linear).
+	r = -1: Correlação perfeita negativa (à medida que uma variável aumenta, a outra diminui de maneira linear).
+	r = 0: Ausência de correlação linear.
+Interpretação:
+
+Quanto mais próximo de 1 (positivo) ou -1 (negativo), mais forte é a correlação.
+Quanto mais próximo de 0, mais fraca é a correlação.
+Direção:
+
+Positiva: Aumento em uma variável está associado ao aumento na outra.
+
+Negativa: Aumento em uma variável está associado à diminuição na outra.
+
+Exemplo de Interpretação:
+
+Se tivermos um coeficiente de correlação de 0.8 entre a experiência profissional e o salário, isso sugere uma correlação positiva forte. Ou seja, à medida que a experiência profissional aumenta, é provável que o salário também aumente.
+
+A correlação de Pearson avalia apenas relações lineares.
+Outliers podem influenciar significativamente o resultado.
+Correlação não implica causalidade.
+Ao realizar uma análise de correlação de Pearson, é essencial considerar o contexto, interpretar os resultados com cautela e explorar visualmente os dados para uma compreensão abrangente da relação entre as variáveis. Essa análise é valiosa para identificar padrões lineares e fornecer insights sobre a possível associação entre as variáveis em estudo.
+
+# Correlação de Spearman
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/f90914d5-568f-4aee-a8ea-a782649a28c3)
 
-teste11
+Objetivo com essa avaliação de correlação é avaliar a relação monotônica (não necessariamente linear) entre duas variáveis. Que é recomendada quando as variáveis não têm uma relação linear, mas mantêm uma relação consistente, mesmo que não seja estritamente uma linha reta. Quanto mais próximo de 1 (positivo) ou -1 (negativo), mais forte é a correlação. Quanto mais próximo de 0, mais fraca é a correlação.
+Coeficiente de Correlação (ρ - rho):
+  ρ = 1: Correlação perfeita positiva monotônica.
+  ρ = -1: Correlação perfeita negativa monotônica.
+  ρ = 0: Ausência de correlação monotônica.
+
+# Correlação de Kendall
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/3fd4cfff-64cb-4348-8bca-de148d38ecd3)
 
-teste12
+Objetivocom mais essa avaliação de correlação é medir a concordância entre duas variáveis, focando nos pares de dados que mantêm a mesma ordem na classificação.
+É uma analise util quando a análise se concentra em identificar se há uma concordância na ordem dos dados entre as variáveis. Medir a concordância entre duas variáveis, focando nos pares de dados que mantêm a mesma ordem na classificação.
+Quando usar: Útil quando a análise se concentra em identificar se há uma concordância na ordem dos dados entre as variáveis.
+Coeficiente de Correlação (τ - tau):
+  τ = 1: Concordância perfeita positiva.
+  τ = -1: Concordância perfeita negativa.
+  τ = 0: Ausência de concordância.
+
+
+A análise de correlação de Spearman e Kendall é mais robusta a outliers em comparação com a correlação de Pearson. Essas medidas são particularmente adequadas para dados não lineares e são úteis quando a relação entre as variáveis não segue uma tendência linear clara.
+
+Correlação de Spearman, essa medida avalia a relação monotônica entre duas variáveis, ou seja, se uma variável aumenta, a outra também aumenta (ou diminui) de maneira consistente, mas não necessariamente de maneira linear.
+O coeficiente de correlação de Spearman também varia de -1 a 1, sendo 1 para uma correlação perfeita positiva, -1 para uma correlação perfeita negativa e 0 para ausência de correlação.
+
+
+Correlação de Kendall, é similar à correlação de Spearman, a correlação de Kendall mede a concordância de classificações entre pares de observações.
+Ela é especialmente útil quando os dados são ordinais e a relação entre as variáveis é mais facilmente expressa em termos de ordem do que de magnitude absoluta.
+O coeficiente de correlação de Kendall também varia de -1 a 1, seguindo a mesma interpretação da correlação de Spearman.
+Racional para Escolher Spearman e Kendall:
+
+Ambas as correlações são mais robustas a outliers, o que significa que a presença de valores extremos não influenciará significativamente o resultado.
+Em contextos onde não é possível mensurar ou quantificar características específicas, como o tamanho da empresa ou a importância do trabalhador, as correlações de Spearman e Kendall podem fornecer uma visão mais precisa da relação entre as variáveis.
+Portanto, ao optar por utilizar Spearman ou Kendall, estamos priorizando uma análise mais resistente a desvios nos dados, especialmente em situações em que não temos uma compreensão completa das características subjacentes que podem impactar a relação entre as variáveis estudadas, pois não temos como medir o tamanho da empresa, a importancia do trabalhador para receber um salario maior ou menor do que a media, então não temos como garantir que são outliers para retira-los do dataset, podendo trazendo um maior desbalanço para os dados que estamos analisando. 
+
+# Top 15 Skill 
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/9efa0342-eba9-4e54-a31f-603be7d31a00)
 
 teste13
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/97fdaf20-f9d6-4d8a-a482-adef8c0b5014)
 
-teste14
+# Pytorch vs TensorFlow 
+
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/bdf0b72b-9736-4a20-bad4-1c69594611af)
 
-teste15
+# Tableau vs PowerBI 
+
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/32aeb508-83da-462b-9f21-31ee830fbefe)
 
-teste16
+# Python vs R 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/8ac0accd-fad7-44d9-871a-17ad878f54e6)
 
-teste17
+# Machine Learning Vs Deep Learning vs GenAI
+
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/07011f6b-2e0b-4968-9667-7094c67ceb65)
