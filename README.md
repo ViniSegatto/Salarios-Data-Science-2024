@@ -20,15 +20,26 @@ Bem-vindo ao conjunto de dados de Salários em Ciência de Dados, abrangendo os 
 
 Colunas Principais:
 job_title: Cargo ou função do profissional.
+
 experience_level: Nível de experiência do trabalhador.
+
 employment_type: Modelo de empregabilidade (tempo integral, meio período, etc.).
+
 work_models: Modelo de trabalho (Remoto, Híbrido ou Presencial).
+
 work_year: Ano específico em que o salário foi registrado.
+
 employee_residence: Local de residência do empregado.
+
 salary: Remuneração original na moeda local.
+
 salary_currency: Moeda do país em que o funcionário atua (BRL, USD,...).
+
 salary_in_usd: Remuneração convertida em Dólares Americanos (USD).
+
 company_location: Localização geográfica da empresa.
+
 company_size: Tamanho da empresa considerando o número de funcionários.
+
 Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
