@@ -1,6 +1,6 @@
 # Salarios-Data-Science-2024
 
-##Desafio Universidade dos Dados
+# Desafio Universidade dos Dados
 
 No desafio proposto por André Yukio, integrante do grupo "Universidade dos Dados", fui estimulado a realizar uma Análise Exploratória de Dados (EDA) sobre o conjunto de dados "Salários de Cientistas de Dados 2024", disponível na plataforma Kaggle.
 
