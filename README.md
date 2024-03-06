@@ -45,9 +45,21 @@ company_size: Tamanho da empresa considerando o número de funcionários.
 Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
 
-Iniciaremos a análise importando as bibliotecas essenciais para nosso projeto. Essas ferramentas desempenham um papel fundamental no desenvolvimento da análise exploratória, fornecendo as funcionalidades necessárias para extrair insights significativos dos dados.
-
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/d59ebd6e-fe63-4248-b2d2-5f626240fd5d)
+
+O histograma acima exibe a distribuição dos salários em USD no conjunto de dados. As linhas pontilhadas representam medidas estatísticas centrais:
+
+Média (Média Aritmética): A linha vermelha pontilhada indica a média dos salários, que é a soma total dos salários dividida pelo número de observações.
+
+Mediana: A linha azul pontilhada representa a mediana, que é o valor central quando todos os salários estão organizados em ordem crescente.
+
+Moda: A linha verde pontilhada destaca a moda, que é o valor ou intervalo de valores que ocorre com mais frequência nos salários.
+
+O histograma proporciona uma representação visual abrangente da distribuição salarial, permitindo identificar tendências, concentrações e dispersões nos dados. Uma análise mais detalhada revela que a maioria dos salários se concentra no intervalo de 100.000 a 200.000 dólares, indicando uma faixa salarial comum na amostra. Essa faixa sugere uma tendência central nos salários, enquanto as caudas do histograma podem indicar a presença de alguns valores atípicos ou extremos.
+
+
+
+
 
 teste1
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/a530bb54-940d-41e6-bf15-afb1382f8d62)
