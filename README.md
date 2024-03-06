@@ -240,12 +240,15 @@ Essa análise pode orientar profissionais e estudantes na priorização de suas 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/bdf0b72b-9736-4a20-bad4-1c69594611af)
 
 # Tableau vs PowerBI 
+Na comparação entre ferramentas de Business Intelligence, observamos que a demanda por profissionais com conhecimento em Tableau é superior, representando 55% das solicitações, enquanto o PowerBI alcança 45%. Essa análise destaca a preferência do mercado por profissionais familiarizados com o Tableau, indicando que essa ferramenta específica é mais requisitada pelas empresas em comparação com o PowerBI. Essa informação é crucial para os profissionais da área de dados que buscam se especializar em uma ferramenta de Business Intelligence específica, direcionando suas habilidades para atender às demandas do mercado de trabalho. A compreensão dessas preferências auxilia na tomada de decisões estratégicas sobre o desenvolvimento de competências para se destacar e atender às expectativas do setor.
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/32aeb508-83da-462b-9f21-31ee830fbefe)
 
-Na comparação entre ferramentas de Business Intelligence, observamos que a demanda por profissionais com conhecimento em Tableau é superior, representando 55% das solicitações, enquanto o PowerBI alcança 45%. Essa análise destaca a preferência do mercado por profissionais familiarizados com o Tableau, indicando que essa ferramenta específica é mais requisitada pelas empresas em comparação com o PowerBI. Essa informação é crucial para os profissionais da área de dados que buscam se especializar em uma ferramenta de Business Intelligence específica, direcionando suas habilidades para atender às demandas do mercado de trabalho. A compreensão dessas preferências auxilia na tomada de decisões estratégicas sobre o desenvolvimento de competências para se destacar e atender às expectativas do setor.
 
 # Python vs R 
+
+Na análise comparativa entre as linguagens de programação Python e R, percebemos uma clara preferência do mercado, com Python liderando significativamente. Cerca de 75% das vagas exigem conhecimento em Python, enquanto R representa 25.3%. Essa disparidade destaca o domínio e a versatilidade da linguagem Python no cenário da ciência de dados. Profissionais que buscam oportunidades nesse campo podem priorizar o aprendizado e o aprimoramento das habilidades em Python, dado o seu amplo uso e alta demanda no mercado de trabalho. Essa informação é valiosa para orientar a preparação e o desenvolvimento de competências, alinhando-as com as exigências do setor e ampliando as oportunidades de emprego na área de ciência de dados.
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/8ac0accd-fad7-44d9-871a-17ad878f54e6)
 
 # Machine Learning Vs Deep Learning vs GenAI
