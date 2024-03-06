@@ -44,6 +44,8 @@ company_size: Tamanho da empresa considerando o número de funcionários.
 
 Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
+Iniciamos nossa análise com um histograma, proporcionando uma compreensão mais aprofundada dos valores salariais oferecidos nas posições relacionadas à "Data Science". O gráfico permite uma visão clara da distribuição, destacando faixas salariais predominantes e fornecendo insights valiosos sobre a estrutura salarial nesse campo específico.
+
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/d59ebd6e-fe63-4248-b2d2-5f626240fd5d)
 
@@ -58,10 +60,10 @@ Moda: A linha verde pontilhada destaca a moda, que é o valor ou intervalo de va
 O histograma proporciona uma representação visual abrangente da distribuição salarial, permitindo identificar tendências, concentrações e dispersões nos dados. Uma análise mais detalhada revela que a maioria dos salários se concentra no intervalo de 100.000 a 200.000 dólares, indicando uma faixa salarial comum na amostra. Essa faixa sugere uma tendência central nos salários, enquanto as caudas do histograma podem indicar a presença de alguns valores atípicos ou extremos.
 
 
+# Vagas oferecidas em Data Science
 
+Após uma análise mais aprofundada, decidimos consolidar vagas com modificações mínimas para obter uma compreensão mais clara. Essa abordagem visa reduzir a dispersão de dados, permitindo uma análise mais eficiente das principais áreas dentro da Ciência de Dados. Identificamos as cinco principais áreas, a saber, "Data Engineer", "Data Scientist", "Data Analyst", "Machine Learning Engineer" e "Machine Learning Manager", que representam 4.757 vagas, totalizando 72,21% de todas as posições em nosso conjunto de dados. Essa concentração nos proporciona uma visão mais focada e significativa das oportunidades de emprego nesse campo.
 
-
-teste1
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/a530bb54-940d-41e6-bf15-afb1382f8d62)
 
 teste2
