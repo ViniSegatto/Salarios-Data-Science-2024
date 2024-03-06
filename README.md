@@ -14,5 +14,21 @@ O conjunto de dados focado nos salários de diversas áreas de Ciência de Dados
 
 Estas análises são de grande relevância para profissionais da área, entusiastas e indústrias, proporcionando insights valiosos sobre valores salariais, variáveis regionais e outros aspectos essenciais. Explore este conjunto de dados comigo e descubra as informações que podem impulsionar sua compreensão do mercado de Ciência de Dados.
 
+# Conteudo e estrutura do Dataset 
 
+Bem-vindo ao conjunto de dados de Salários em Ciência de Dados, abrangendo os últimos cinco anos, de 2020 a 2024. Este conjunto de dados é uma fonte valiosa de informações sobre diversas áreas relacionadas à Ciência de Dados.
+
+Colunas Principais:
+job_title: Cargo ou função do profissional.
+experience_level: Nível de experiência do trabalhador.
+employment_type: Modelo de empregabilidade (tempo integral, meio período, etc.).
+work_models: Modelo de trabalho (Remoto, Híbrido ou Presencial).
+work_year: Ano específico em que o salário foi registrado.
+employee_residence: Local de residência do empregado.
+salary: Remuneração original na moeda local.
+salary_currency: Moeda do país em que o funcionário atua (BRL, USD,...).
+salary_in_usd: Remuneração convertida em Dólares Americanos (USD).
+company_location: Localização geográfica da empresa.
+company_size: Tamanho da empresa considerando o número de funcionários.
+Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
