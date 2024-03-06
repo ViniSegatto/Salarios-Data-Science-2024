@@ -223,18 +223,27 @@ Portanto, ao optar por utilizar Spearman ou Kendall, estamos priorizando uma an�
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/9efa0342-eba9-4e54-a31f-603be7d31a00)
 
-teste13
+No gráfico acima, que utiliza um segundo conjunto de dados, são destacadas as 15 habilidades mais solicitadas para candidatos a vagas nas áreas de Ciência de Dados. 
+
+Ao analisar a distribuição geral das habilidades necessárias, observamos que, em média, um profissional é esperado possuir aproximadamente 24 habilidades para atender a todos os requisitos das vagas disponíveis. Essa informação destaca a abrangência e diversidade de competências exigidas no campo da Ciência de Dados, enfatizando a importância da multifuncionalidade e da capacidade de os profissionais atenderem a uma ampla gama de requisitos específicos da área. 
+
+Essa análise ressalta a complexidade e a variedade de habilidades demandadas no mercado de trabalho em Ciência de Dados, indicando a necessidade de profissionais versáteis e capacitados para lidar com uma variedade de tarefas e responsabilidades dentro desse campo dinâmico.
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/97fdaf20-f9d6-4d8a-a482-adef8c0b5014)
 
-# Pytorch vs TensorFlow 
+# Pytorch vs TensorFlow
 
+Na análise abaixo, comparamos algumas das principais habilidades na área de dados, destacando a demanda entre duas das principais ferramentas, PyTorch e TensorFlow. Observamos que a habilidade "TensorFlow" é predominantemente requisitada, representando uma superioridade significativa de 52,7% em relação ao PyTorch. Essa comparação oferece insights valiosos sobre a preferência do mercado de trabalho em relação a essas duas tecnologias específicas, indicando que a proficiência em TensorFlow é mais solicitada e amplamente reconhecida pelas empresas que buscam profissionais qualificados em Ciência de Dados. 
+
+Essa análise pode orientar profissionais e estudantes na priorização de suas habilidades, destacando a importância de investir em competências específicas que são altamente valorizadas no cenário atual da área de dados.
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/bdf0b72b-9736-4a20-bad4-1c69594611af)
 
 # Tableau vs PowerBI 
 
-
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/32aeb508-83da-462b-9f21-31ee830fbefe)
+
+Na comparação entre ferramentas de Business Intelligence, observamos que a demanda por profissionais com conhecimento em Tableau é superior, representando 55% das solicitações, enquanto o PowerBI alcança 45%. Essa análise destaca a preferência do mercado por profissionais familiarizados com o Tableau, indicando que essa ferramenta específica é mais requisitada pelas empresas em comparação com o PowerBI. Essa informação é crucial para os profissionais da área de dados que buscam se especializar em uma ferramenta de Business Intelligence específica, direcionando suas habilidades para atender às demandas do mercado de trabalho. A compreensão dessas preferências auxilia na tomada de decisões estratégicas sobre o desenvolvimento de competências para se destacar e atender às expectativas do setor.
 
 # Python vs R 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/8ac0accd-fad7-44d9-871a-17ad878f54e6)
