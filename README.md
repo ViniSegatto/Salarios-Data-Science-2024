@@ -46,3 +46,5 @@ Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire i
 
 
 Iniciaremos a análise importando as bibliotecas essenciais para nosso projeto. Essas ferramentas desempenham um papel fundamental no desenvolvimento da análise exploratória, fornecendo as funcionalidades necessárias para extrair insights significativos dos dados.
+
+![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/d59ebd6e-fe63-4248-b2d2-5f626240fd5d)
