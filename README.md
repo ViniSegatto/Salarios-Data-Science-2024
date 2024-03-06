@@ -57,26 +57,3 @@ teste
 teste
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/26795ba1-4348-4616-a6eb-c4ae808773bb)
 teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/47cf1c49-58ba-4997-acae-b2e54399f48f)
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/ac06c8ef-6802-442b-a948-535a5edd3a94)
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/ff0bd031-20c0-476b-b156-e5df959c708b) 1 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/fc55746d-0235-47d6-ae31-4f12c4c8e558) 2 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/1e14936a-0cd6-4700-aeb1-2662a6c5d554) 3 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/018b189f-0175-4655-b0de-5e77da6df7c6) 4 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/2c952ba7-93bb-497e-8617-8261bfc23244) 5 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/3255568e-ac17-4b37-9b8b-e5d815efc8d2) 6
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/5107eae5-3587-436c-9c62-85269a3146c9) 7 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/9e5459cc-b9e8-4073-990e-0fcd178033e4) 8
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/51a2b48f-7acc-40f8-9d53-850232fd8e20) 9 
-teste
-![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/a3bb5bdb-ea81-40be-9a13-7ae6f660f1e1) 10
