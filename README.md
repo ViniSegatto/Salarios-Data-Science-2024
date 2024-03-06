@@ -44,6 +44,8 @@ company_size: Tamanho da empresa considerando o número de funcionários.
 
 Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
+# Iniciando com uma breve analise dos salários
+
 Iniciamos nossa análise com um histograma, proporcionando uma compreensão mais aprofundada dos valores salariais oferecidos nas posições relacionadas à "Data Science". O gráfico permite uma visão clara da distribuição, destacando faixas salariais predominantes e fornecendo insights valiosos sobre a estrutura salarial nesse campo específico.
 
 
@@ -64,9 +66,20 @@ O histograma proporciona uma representação visual abrangente da distribuição
 
 Após uma análise mais aprofundada, decidimos consolidar vagas com modificações mínimas para obter uma compreensão mais clara. Essa abordagem visa reduzir a dispersão de dados, permitindo uma análise mais eficiente das principais áreas dentro da Ciência de Dados. Identificamos as cinco principais áreas, a saber, "Data Engineer", "Data Scientist", "Data Analyst", "Machine Learning Engineer" e "Machine Learning Manager", que representam 4.757 vagas, totalizando 72,21% de todas as posições em nosso conjunto de dados. Essa concentração nos proporciona uma visão mais focada e significativa das oportunidades de emprego nesse campo.
 
+# Lugares com mais oportunidades
+
+Após a abordagem aplicada no gráfico anterior, decidi consolidar o local de residência dos trabalhadores por região. Essa escolha visa evitar a sobrecarga visual de um gráfico com inúmeros valores de cada país. Ao agrupar por região, destacamos uma notável discrepância nos dados da América do Norte, que totaliza 5.564 vagas, representando 84,45% do total para uma única região. Apesar dessa disparidade concentrada em uma região, ainda podemos extrair insights valiosos sobre o mercado de Ciência de Dados. A predominância dos dados da América do Norte reflete uma tendência significativa no setor de tecnologia, evidenciando a influência marcante dessa região no mercado global.
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/a530bb54-940d-41e6-bf15-afb1382f8d62)
 
-teste2
+# Niveis de experiencia 
+
+A análise do número de vagas por nível de experiência emerge como um indicador crucial para compreender as demandas do mercado. Notavelmente, observamos uma predominância clara de vagas destinadas a profissionais classificados como "seniors", totalizando mais de 4.100 oportunidades. Em seguida, profissionais de nível "Pleno" apresentam uma presença significativa, com 1.675 vagas. Apesar da menor demanda para profissionais "juniors" ou estagiários em comparação com os seniors, a parcela de cerca de 10% do total ainda indica um mercado aberto a novos talentos. Esse cenário sugere um crescimento positivo e promissor na área, com oportunidades consideráveis para profissionais em diferentes estágios de suas carreiras.
+
+# Salario medio por experiencia
+
+Conforme esperado, a análise salarial revela uma correlação positiva entre o nível de experiência e o salário médio no dataset. Os profissionais classificados como "executivos" da área de dados ostentam o maior salário médio, atingindo a marca de 184.560 USD. Na sequência, os profissionais "seniors" apresentam um salário médio de 153.600 USD, representando uma diferença de 16,77% entre essas categorias de níveis mais elevados. No segmento de profissionais "mid-level" (considerados "pleno" no Brasil), o salário médio é de 106.500 USD, enquanto os profissionais "juniors" recebem, em média, 75.000 USD, refletindo uma diferença de 29,57%. Essa análise reforça a tendência comum de que o aumento na experiência está associado a salários mais elevados.
+
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/022912f7-2d41-4834-90c7-a4e1cc280e21)
 
 teste3
