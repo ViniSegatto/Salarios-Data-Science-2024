@@ -19,6 +19,7 @@ Estas análises são de grande relevância para profissionais da área, entusias
 Bem-vindo ao conjunto de dados de Salários em Ciência de Dados, abrangendo os últimos cinco anos, de 2020 a 2024. Este conjunto de dados é uma fonte valiosa de informações sobre diversas áreas relacionadas à Ciência de Dados.
 
 Colunas Principais:
+
 job_title: Cargo ou função do profissional.
 
 experience_level: Nível de experiência do trabalhador.
@@ -43,3 +44,5 @@ company_size: Tamanho da empresa considerando o número de funcionários.
 
 Explore as nuances dos salários em Ciência de Dados ao longo dos anos e tire insights valiosos para profissionais e empresas do setor.
 
+
+Iniciaremos a análise importando as bibliotecas essenciais para nosso projeto. Essas ferramentas desempenham um papel fundamental no desenvolvimento da análise exploratória, fornecendo as funcionalidades necessárias para extrair insights significativos dos dados.
