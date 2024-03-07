@@ -262,3 +262,22 @@ Vale ressaltar que o predomínio de "Machine Learning" pode ser atribuído à su
 Essa análise proporciona insights valiosos sobre as tendências atuais, destacando não apenas as habilidades predominantes, mas também apontando para possíveis mudanças à medida que novas tecnologias amadurecem e se tornam mais difundidas no mercado.
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/07011f6b-2e0b-4968-9667-7094c67ceb65)
+
+# Conclusão 
+
+Ao analisar tanto os dados salariais quanto os requisitos de habilidades na área de Ciência de Dados, emergem insights valiosos que iluminam o presente e antecipam tendências futuras nesse campo dinâmico. Embora uma parcela significativa do mercado atual esteja direcionada a profissionais experientes, destaca-se que a área oferece uma considerável margem para iniciantes. Isso sugere que a demanda por profissionais de Ciência de Dados permanece robusta, com uma projeção de crescimento contínuo à medida que novas tecnologias, como o ChatGPT, influenciam e transformam o cenário.
+
+A constante evolução do campo reforça a importância da atualização contínua e da busca por habilidades emergentes que possam agregar valor à carreira. O dataset não apenas fornece uma visão abrangente das faixas salariais atuais, mas também serve como uma referência valiosa para profissionais que desejam ingressar ou progredir na área, além de auxiliar empresas na definição de expectativas salariais e na identificação de habilidades essenciais para seus candidatos.
+
+Dessa forma, este conjunto de dados se revela uma ferramenta fundamental para diversos públicos, desde aspirantes a profissionais de Ciência de Dados até empresas que buscam orientação sobre faixas salariais e habilidades prioritárias. Ele oferece uma panorâmica abrangente do ecossistema da área de dados, contribuindo para uma compreensão mais profunda e embasada do cenário atual e futuro dessa carreira fascinante.
+
+
+
+Esse desafio fui muito legal e muito desafiador de se fazer, devo agradecer ao [Andre Yukio](https://www.linkedin.com/in/andreyukio/) por essa grande oportunidade para ajudar a todo seu grupo da Universidade dos Dados a se desafiarem e a ajuda para construir um portifolio cada vez melhor. Muito obrigado! 
+
+E se você chegou até aqui, você pode me encontrar tambem nas seguintes redes abaixo! 
+[Linkedin](https://www.linkedin.com/in/vinicius-segatto-9a560421b/)
+[Medium](https://medium.com/@viniciussegatto11)
+[Github](https://github.com/ViniSegatto)
+
+Obrigado.
