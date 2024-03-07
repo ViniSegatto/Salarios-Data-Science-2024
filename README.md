@@ -253,5 +253,12 @@ Na análise comparativa entre as linguagens de programação Python e R, percebe
 
 # Machine Learning Vs Deep Learning vs GenAI
 
+Na análise das áreas relacionadas à inteligência artificial, destaca-se a prevalência de "Machine Learning" como a habilidade mais requisitada, abrangendo impressionantes 73.9% das aparições nos requisitos das vagas. Em contrapartida, "Deep Learning" figura em segundo lugar, com pouco mais de 20%, seguido por "GenAI", que representa uma fatia menor, com 5.4%.
+
+Vale ressaltar que o predomínio de "Machine Learning" pode ser atribuído à sua maturidade e estabelecimento no mercado, sendo uma área consolidada ao longo do tempo. Por outro lado, "Deep Learning" e "GenAI" são consideradas áreas mais recentes, refletindo uma demanda ainda em crescimento.
+
+É interessante observar que a relativa menor procura por "Deep Learning" e "GenAI" pode ser influenciada pelo fato de serem áreas mais recentes, com as empresas ainda se adaptando e absorvendo essas tecnologias inovadoras. Contudo, essa dinâmica pode evoluir ao longo do tempo, à medida que essas áreas emergentes se tornam mais estabelecidas e integralizadas no cenário da inteligência artificial.
+
+Essa análise proporciona insights valiosos sobre as tendências atuais, destacando não apenas as habilidades predominantes, mas também apontando para possíveis mudanças à medida que novas tecnologias amadurecem e se tornam mais difundidas no mercado.
 
 ![download](https://github.com/ViniSegatto/Salarios-Data-Science-2024/assets/117327390/07011f6b-2e0b-4968-9667-7094c67ceb65)
