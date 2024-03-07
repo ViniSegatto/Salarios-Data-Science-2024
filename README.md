@@ -276,8 +276,11 @@ Dessa forma, este conjunto de dados se revela uma ferramenta fundamental para di
 Esse desafio fui muito legal e muito desafiador de se fazer, devo agradecer ao [Andre Yukio](https://www.linkedin.com/in/andreyukio/) por essa grande oportunidade para ajudar a todo seu grupo da Universidade dos Dados a se desafiarem e a ajuda para construir um portifolio cada vez melhor. Muito obrigado! 
 
 E se você chegou até aqui, você pode me encontrar tambem nas seguintes redes abaixo! 
+
 [Linkedin](https://www.linkedin.com/in/vinicius-segatto-9a560421b/)
+
 [Medium](https://medium.com/@viniciussegatto11)
+
 [Github](https://github.com/ViniSegatto)
 
 Obrigado.
